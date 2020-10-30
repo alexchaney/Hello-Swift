@@ -45,6 +45,7 @@
 				31A693D7254BD2CF00CE25DC /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		31A693D7254BD2CF00CE25DC /* Products */ = {
 			isa = PBXGroup;
@@ -237,6 +238,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = Y236F3AN3D;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 			};
@@ -246,6 +248,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = Y236F3AN3D;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 			};
